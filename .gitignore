@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+budstrack_config.json
+budstrack_scan.txt
+budstrack.ico
